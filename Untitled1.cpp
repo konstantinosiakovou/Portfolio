@@ -1,8 +1,11 @@
 #include <stdio.h>
 int main()
 {
-
-int x=5;
-printf("h timh einai:%d\n");
-return 0;
-}
+	char calendar;
+	printf("Please insert the today calendar, bitch!:");
+	scanf("%c\n", &calendar);
+	printf("The today`s calendar is:%c\n",calendar);
+	system("pause");
+	return 0;
+	}
+	
