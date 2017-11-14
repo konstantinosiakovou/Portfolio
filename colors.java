@@ -1,59 +1,60 @@
 package pkg005_eventimplementsactionListener;
 
 import java.awt.Color;
-
+import java.awt.Container;
+import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-public class frame extends JFrame {
+public class frame extends JFrame implements ActionListener {
 
     private JButton b1;
     private JButton b2;
     private JButton b3;
-    private JButton b4;
-    private JLabel l1;
+
     private JPanel p1;
-    private JPanel p2;
 
     frame() {
 
-        this.setTitle("Play with Colors");
+        this.setTitle("PLAY WITH COLORS");
         this.setSize(500, 500);
 
-        p1 = new JPanel();
-        p2 = new JPanel();
-
-        l1 = new JLabel("Please choose your Color:");
         b1 = new JButton("RED");
+        b1.addActionListener(this);
+
         b2 = new JButton("BLUE");
-        b3 = new JButton("ORANGE");
-        b4 = new JButton("RESET");
+        b2.addActionListener(this);
 
-        p2.add(b1);
-        p2.add(b2);
-        p2.add(b3);
-        p2.add(b4);
-        p1.add(l1);
+        b3 = new JButton("WHITE");
+        b3.addActionListener(this);
 
-        if (b1.equals("RED")) {
+        p1 = new JPanel();
 
-            p1.setBackground(Color.red);
+        p1.add(b1);
+        p1.add(b2);
+        p1.add(b3);
 
-        } else if (b2.equals("BLUE")) {
-
-            p1.setBackground(Color.blue);
-
-        } else if (b3.equals("ORANGE")) {
-
-            p1.setBackground(Color.orange);
-
-        } else if (b4.equals("RESET")) {
-
-            p1.setBackground(Color.pink);
-
-        }
+        Container c = getContentPane();
+        c.setLayout(new GridLayout(1, 1));
+        c.add(p1);
     }
 
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        String name = e.getActionCommand();
+        if (b1.equals("RED")) {
+            p1.setBackground(Color.red);
+            
+        }
+        if (b2.equals("BLUE")) {
+            p1.setBackground(Color.blue);
+        }
+        if (b3.equals("WHITE")) {
+            p1.setBackground(Color.white);
+        }
+    }
 }
