@@ -21,17 +21,16 @@ class square
 		return (1/3) * e_base * (side*side) * height;
 		}		
 	square::square(){
-		pyramid=new pyramids1[0];
-		pyramid2=new pyramids2[0];
+		square *pyramid1=new square[0];
+		square *pyramid2=new square[0];
 	}	
 	square::~square(){
-		delete pyramid;
+		delete pyramid1;
 		delete pyramid2;
 	}
 };
 int main(){	
-square *math=new square;
-math.setheight(0);
-math.setwidth(0);
+ 
+
 cout<<"the result is:"<<math.show()<<endl;		
 }
