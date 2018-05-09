@@ -10,24 +10,22 @@ class square
 		void setwidth(double){}
 		double getheight(){}
 		double getwidth(){}
-		double show(double e_base,double height){
-		return (1/3) * e_base * (side*side) * height;
+		double show(){
+		return side*side;
 		}		
 	};				
    class Pyramid: public square{
 	private:
+	double height;	
+	public:
 	double getheight(){}
-	double showtwo(double e_base,double height){
-		return (1/3) * e_base * (side*side) * height;
+	double show(){
+		return ((double)1/3)*side*side * height;
 		}		
-	square::square(){
-		square *pyramid1=new square[0];
-		square *pyramid2=new square[0];
+	pyramid::pyramid(){
+		
 	}	
-	square::~square(){
-		delete pyramid1;
-		delete pyramid2;
-	}
+
 };
 int main(){	
  
