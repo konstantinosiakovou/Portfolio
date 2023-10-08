@@ -1,0 +1,132 @@
+/*----GLOBAL----*/
+body{
+	font-family:Arial, Verdana, Helvetica, sans-serif;
+	background:#d2e9a5;
+	margin:0px;
+}
+p{
+	font-family:Georgea, serif;
+}
+#main{
+	position:relative;
+}
+/*----HEADER----*/
+#header{
+	text-align:center;
+	background:url(../img/baner/vitala_baner.jpg);
+}
+h1{
+	margin-left: 40px;
+    height: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+	font-size:250%;
+	font-family:Time New Romance, Times, Serif;
+}
+#header2{
+	font-size:120%;
+}
+.right{
+	float:right;
+}
+/*----MENU----*/
+#menu{
+	background:#7C8A61;
+	margin:0px;
+	padding:5px;
+}
+#nav {
+text-align:center;
+}
+#nav li {
+display:inline;
+}
+#nav a {
+text-decoration:none; 
+padding:0px; /* variable width */
+}
+#nav li a{
+	color:#d2e9a5;
+	text-decoration:none;
+}
+.menu, .helping{
+	margin:0px;
+	padding:10px;
+	display:block;
+}
+.menu:hover{
+	background:#96A181;
+}
+/*----CONTENET----*/
+#content{
+	text-align:justify;
+	background: #EEEEEE;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+	width:60%;
+	-webkit-box-shadow: 0px 0px 20px #292929;
+    -moz-box-shadow: 0px -10px 20px #292929;
+    box-shadow: 0px 0px -10px #292929;
+}
+.centered{
+	text-align:center;
+}
+.galerie{
+	margin: 5px;
+    padding: 5px;
+    height: auto;
+    width: auto;
+	border: 1px solid #95A07F;
+}
+/*----LIGHTBOX----*/
+#lightbox{
+	background-color:#eee;
+	padding: 10px;
+	border-bottom: 2px solid #666;
+	border-right: 2px solid #666;
+}
+#lightboxDetails{
+	font-size: 0.8em;
+	padding-top: 0.4em;
+}	
+#lightboxCaption{ float: left; 
+}
+#keyboardMsg{ float: right; 
+}
+#closeButton{ top: 5px; right: 5px; 
+}
+
+#lightbox img{ border: none; clear: both;
+} 
+#overlay img{ border: none; 
+}
+
+#overlay{ background-image: url(overlay.png); 
+}
+
+* html #overlay{
+	background-color: #333;
+	back\ground-color: transparent;
+	background-image: url(blank.gif);
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="overlay.png", sizingMethod="scale");
+}
+/*----FOOTER----*/
+#footer{
+	position:;
+	bottom: 0;
+	left: 0;
+	right:0;
+	background: #AABD85;
+    text-align: center;
+    height: 100px;
+    font-size: 90%;
+	margin:0px;
+}
+#footer p{
+	color:#eee;
+	margin:0px;
+	padding:15px;
+}
