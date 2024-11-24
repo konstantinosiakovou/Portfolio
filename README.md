@@ -5,4 +5,4 @@
 [Σχολή Οδηγών Δημήτρης Ρέρρες](https://konstantinosiakovou.github.io/vitalagr/](https://konstantinosiakovou.github.io/DimitrisRerresDrivingSchool/))<br>
 [Δημήτρης Πολιτάκης (Γνωστός από την συμμετοχή του στο Mastercef)](https://konstantinosiakovou.github.io/DPolitakis/)<br>
 [Little Lemmon portifolio](https://konstantinosiakovou.github.io/Little-Lemmon-portifolio/)<br>
-[Lucky_Shrub]<br>
+[Lucky_Shrub](https://konstantinosiakovou.github.io/Lucky_Shrub/)<br>
