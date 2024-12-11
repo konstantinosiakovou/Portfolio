@@ -1,4 +1,4 @@
-![Cover](facebook banner.jpg)
+![Cover](facebookbanner.jpg)
 ![Logo](logo.jpg)
 
 #  Welcome to my GitHub Profile.
