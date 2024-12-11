@@ -1,4 +1,5 @@
-![Alt text](logo.jpg)
+![Cover](facebook banner.jpg)
+![Logo](logo.jpg)
 
 #  Welcome to my GitHub Profile.
 I am web developer and studied at university of Ioannina at 2023. 
