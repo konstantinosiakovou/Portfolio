@@ -1,4 +1,4 @@
-![Alt text](Portfolio/logo.jpg)
+![Alt text](logo.jpg)
 
 #  Welcome to my GitHub Profile.
 I am web developer and studied at university of Ioannina at 2023. 
