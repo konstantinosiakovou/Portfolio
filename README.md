@@ -1,6 +1,6 @@
 ![Logo](logo.jpg)
 
-#  Welcome to my GitHub Profile.
+#  Hi, my name is Konstantinos Iakovou.
 I am web developer and studied at university of Ioannina at 2023. 
 
 #  About me
