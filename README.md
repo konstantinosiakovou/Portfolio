@@ -1,7 +1,7 @@
 ![Logo](logo.jpg)
 
 #  Hi, my name is Konstantinos Iakovou.
-I am web developer and studied at University of Ioannina at 2023. 
+I am web developer and graduated at University of Ioannina in 2023. 
 
 #  About me
 I’m passionate about creating and designing, especially in web development. I enjoy facing challenges and learning new things. I’m organized and eager to contribute to a company’s success by applying my skills and experience. I’m confident in my abilities and always give my best.
