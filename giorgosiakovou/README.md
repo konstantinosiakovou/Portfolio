@@ -1,2 +1,1 @@
-# js-cart-setup
-ADD ITEMS TO CART JAVASCRIPT PROJECT
+# That website was made years ago for my brother, who is a singer, Giorgos Iakovou.
