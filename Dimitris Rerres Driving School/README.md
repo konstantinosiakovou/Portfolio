@@ -1,2 +1,1 @@
-# js-cart-setup
-ADD ITEMS TO CART JAVASCRIPT PROJECT
+#This website was a very simple project that never continue for a driving school of Dimitris Rerres.
