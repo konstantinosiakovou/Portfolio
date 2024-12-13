@@ -9,7 +9,7 @@ I’m passionate about creating and designing, especially in web development. I 
 # About my portfolio
 I've loved creating and designing since I was a kid. Web development lets me learn new things and solve challenges every day, mostly through YouTube and the internet.
 
-# [My Porfolio]<br>
+# [My Portfolio]<br>
 [My website (coming soon...)]<br>
 [Blog Parceiro De Conversação](https://parceirodeconversacao.com.br)<br>
 [Gorgos Iakovou website](https://giorgosiakovou-12e2e2ab60ea.herokuapp.com/) <br>
