@@ -12,7 +12,7 @@ I've loved creating and designing since I was a kid. Web development lets me lea
 # [My Portfolio]<br>
 - [My website](https://konstantinosiakovou.github.io/myportfolio/)<br>
 - [Blog Parceiro De Conversação](https://parceirodeconversacao.com.br)<br>
-- [Gorgos Iakovou website](Soon online) <br>
+- [Gorgos Iakovou website](http://giorgosiakovou.infinityfreeapp.com/) <br>
 - [Grandma`s Sweets Project](https://konstantinosiakovou.github.io/grandmassweets/) <br>
 - [Sanctuary Martial arts](Soon online) <br>
 - [Εκπολιτιστικός Σύλλογος Βιταλιωτών "Τα Κοτυλαία"](https://konstantinosiakovou.github.io/vitalagr/)<br>
