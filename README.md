@@ -22,4 +22,4 @@ I've loved creating and designing since I was a kid. Web development lets me lea
 - [Δημήτρης Πολιτάκης (Γνωστός από την συμμετοχή του στο Mastercef)](https://konstantinosiakovou.github.io/DPolitakis/)<br>
 - [Little Lemmon portifolio](https://konstantinosiakovou.github.io/Little-Lemmon-portifolio/)<br>
 - [Lucky_Shrub](https://konstantinosiakovou.github.io/Lucky_Shrub/)<br>
-- [Parceiro De Conversação (old version Laravel app)](soon)
+- [Parceiro De Conversação (old version Laravel app)] soon...
