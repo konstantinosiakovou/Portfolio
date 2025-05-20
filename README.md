@@ -18,8 +18,9 @@ I've loved creating and designing since I was a kid. Web development lets me lea
 - [Grandma`s Sweets Project (Front-End project)](https://konstantinosiakovou.github.io/grandmassweets/) <br>
 - [Sanctuary Martial arts(Unsafe connection)](http://sanctuarymartialarts.infinityfreeapp.com/) <br> (offline)
 - [Εκπολιτιστικός Σύλλογος Βιταλιωτών "Τα Κοτυλαία"](https://konstantinosiakovou.github.io/vitalagr/)<br>
-- [Σχολή Οδηγών Δημήτρης Ρέρρες](https://konstantinosiakovou.github.io/DimitrisRerresDrivingSchool/)<br>
-- [Δημήτρης Πολιτάκης (Γνωστός από την συμμετοχή του στο Mastercef)](https://konstantinosiakovou.github.io/DPolitakis/)<br>
+- [Σχολή Οδηγών Δημήτρης Ρέρρες](https://konstantinosiakovou.github.io/DimitrisRerresDrivingSchool/) demo test project<br>
+- [Portfolio Demo test project](https://konstantinosiakovou.github.io/DPolitakis/)<br>
 - [Little Lemmon portifolio](https://konstantinosiakovou.github.io/Little-Lemmon-portifolio/)<br>
 - [Lucky_Shrub](https://konstantinosiakovou.github.io/Lucky_Shrub/)<br>
 - [Parceiro De Conversação (old version Laravel app)] soon...
+- More projects on the way with love and passion.
