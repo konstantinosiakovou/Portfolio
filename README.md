@@ -11,6 +11,8 @@ I've loved creating and designing since I was a kid. Web development lets me lea
 
 # [My Portfolio]<br>
 - [My website](https://konstantinosiakovou.github.io/myportfolio/)<br>
+- [Travel - Front-End project](https://konstantinosiakovou.github.io/Travel/)
+- [Nature - Front-End project](https://konstantinosiakovou.github.io/nature/)
 - [Online lessons | Front-End project](https://konstantinosiakovou.github.io/Onlinelessons/)
 - [Online Service Provider Front-End project](https://konstantinosiakovou.github.io/onlineserviceprovider/)
 - [Blog Parceiro De Conversação](https://parceirodeconversacao.com.br)<br> (offline)
