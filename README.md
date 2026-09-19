@@ -18,7 +18,6 @@ I've loved creating and designing since I was a kid. Web development lets me lea
 - [Blog Parceiro De Conversação](https://parceirodeconversacao.com.br)<br> (offline)
 - [Front-End project for Pet Shop](https://konstantinosiakovou.github.io/Petshop/) <br>
 - [Construction Front-End company website](https://konstantinosiakovou.github.io/Constructions/) <br>
-- [Gorgos Iakovou website(Unsafe connection)](http://giorgosiakovou.infinityfreeapp.com/) <br> (offline)
 - [Grandma`s Sweets Project (Front-End project)](https://konstantinosiakovou.github.io/grandmassweets/) <br>
 - [Sanctuary Martial arts(Unsafe connection)](http://sanctuarymartialarts.infinityfreeapp.com/) <br> (offline)
 - [Εκπολιτιστικός Σύλλογος Βιταλιωτών "Τα Κοτυλαία"](https://konstantinosiakovou.github.io/vitalagr/)<br>
